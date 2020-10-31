@@ -1,0 +1,4 @@
+[debug] [scalafunctions-build] Classpath dependencies List()
+[debug] [scalafunctions-build] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'scalafunctions-build' to '/home/ashish/workspace-scala/scalaProgramming/scalaFunctions/project/.bloop/scalafunctions-build.json'
+[success] Generated .bloop/scalafunctions-build.json

@@ -1,0 +1,8 @@
+*.metals
+*.bloop
+*.bsp
+*.class
+*.cache
+*.scalfmt
+
+/target
