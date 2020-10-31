@@ -1,0 +1,4 @@
+[debug] [scalamatch-build] Classpath dependencies List()
+[debug] [scalamatch-build] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'scalamatch-build' to '/home/ashish/workspace-scala/scalamatch/project/.bloop/scalamatch-build.json'
+[success] Generated .bloop/scalamatch-build.json
