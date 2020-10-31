@@ -1,0 +1,4 @@
+[debug] [higherorderfunctions-build] Classpath dependencies List()
+[debug] [higherorderfunctions-build] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'higherorderfunctions-build' to '/home/ashish/workspace-scala/higherOrderFunctions/project/.bloop/higherorderfunctions-build.json'
+[success] Generated .bloop/higherorderfunctions-build.json
