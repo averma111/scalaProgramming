@@ -1,0 +1,4 @@
+[debug] [closures-test] Classpath dependencies List()
+[debug] [closures-test] Dependencies from configurations List(closures)
+[debug] Bloop wrote the configuration of project 'closures-test' to '/home/ashish/workspace-scala/scalaProgramming/closures/.bloop/closures-test.json'
+[success] Generated .bloop/closures-test.json
