@@ -1,0 +1,4 @@
+[debug] [partiallyappliedfunctions] Classpath dependencies List()
+[debug] [partiallyappliedfunctions] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'partiallyappliedfunctions' to '/home/ashish/workspace-scala/scalaProgramming/partiallyAppliedFunctions/.bloop/partiallyappliedfunctions.json'
+[success] Generated .bloop/partiallyappliedfunctions.json
