@@ -1,0 +1,4 @@
+[debug] [scalacurrying-build] Classpath dependencies List()
+[debug] [scalacurrying-build] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'scalacurrying-build' to '/home/ashish/workspace-scala/scalacurrying/project/.bloop/scalacurrying-build.json'
+[success] Generated .bloop/scalacurrying-build.json
