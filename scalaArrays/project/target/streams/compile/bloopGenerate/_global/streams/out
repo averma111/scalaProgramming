@@ -1,0 +1,4 @@
+[debug] [scalaarrays-build] Classpath dependencies List()
+[debug] [scalaarrays-build] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'scalaarrays-build' to '/home/ashish/workspace-scala/scalaProgramming/scalaArrays/project/.bloop/scalaarrays-build.json'
+[success] Generated .bloop/scalaarrays-build.json
