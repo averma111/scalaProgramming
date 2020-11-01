@@ -1,0 +1,4 @@
+[debug] [scalalists-build] Classpath dependencies List()
+[debug] [scalalists-build] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'scalalists-build' to '/home/ashish/workspace-scala/scalaProgramming/scalaLists/project/.bloop/scalalists-build.json'
+[success] Generated .bloop/scalalists-build.json
